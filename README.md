@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  🎓 Ph.D. Student in Engineering Science @ Harvard University  
-  🧠 Building intelligent diagnostic agents | Multi-modal + Multi-task + LLMs  
+  🎓 中国农业科学院油料作物研究所 硕士研究生  
+  🧠 食品营养
   📧 Email: <a href="mailto:xiaolongluo@g.harvard.edu">xiaolongluo[@]g.harvard.edu</a>
 </p>
 
