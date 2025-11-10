@@ -1,16 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jiangnanjie+(Aaron)+Luo;PhD+Student+@+中国农业科学院油料作物研究所+University;AI+Researcher+in+Healthcare;Building+Diagnostic+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jiangnanjie+Student+@+中国农业科学院油料作物研究所;AI+Researcher+in+Healthcare;Building+Diagnostic+AI+Agents" alt="Typing SVG" />
 </h1>
 
 
 <p align="center">
-  <a href="https://aaronluo00.github.io/Aaron_Homepage/"><strong>🌐 Explore my full homepage →</strong></a>
-</p>
-
-<p align="center">
   🎓 中国农业科学院油料作物研究所 硕士研究生  
   🧠 食品营养
-  📧 Email: <a href="mailto:xiaolongluo@g.harvard.edu">xiaolongluo[@]g.harvard.edu</a>
+  📧 Email: <a href="jiangnj.bio@gmail.com">jiangnj.bio@gmail.com</a>
 </p>
 
 ---
