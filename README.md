@@ -1,113 +1,98 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jiangnanjie+Student+@+中国农业科学院油料作物研究所;AI+Researcher+in+Healthcare;Building+Diagnostic+AI+Agents" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">Jiang Nanjie · 姜南杰</h1>
 
 <p align="center">
-  🎓 中国农业科学院油料作物研究所 硕士研究生  
-  🧠 食品营养
-  📧 Email: <a href="jiangnj.bio@gmail.com">jiangnj.bio@gmail.com</a>
+  PhD Candidate · Computational Chemistry & Bioinformatics · Food-derived Functional Molecules
 </p>
-
----
 
 <p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=AaronLuo00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/AaronLuo00?style=for-the-badge&logo=github&label=Followers&color=2eb85c"/>
-  
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/AaronLuo00?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
-</p>
-
----
-
-## 🔬 Research Interests
-> **Flexible Diagnostic Models with Multi-task and Multi-modal Learning**  
-> I work on developing advanced AI models that can simultaneously handle multiple diagnostic tasks while effectively integrating various types of medical data (imaging, clinical notes, lab results) to provide more comprehensive and accurate medical assessments.  
->   
-> **Democratizing Healthcare Access through AI Agents**  
-> I am dedicated to developing intelligent healthcare agents that make medical resources and consultations more accessible and convenient for everyone. This includes creating AI systems that can provide preliminary medical advice, assist in resource allocation, and bridge the gap between patients and healthcare providers.
-
----
-
-## 🌱 Long-term Vision
-> I aspire to become a compound talent who deeply understands large-scale medical data, multi-modal learning, and end-to-end clinical applications.  My long-term goal is to bridge cutting-edge AI research and real-world healthcare impact, driving both technical innovation and product commercialization. Ultimately, I hope to promote a more equitable distribution of medical resources, enabling better healthcare access and outcomes for all, and bringing broader benefits to society.
-
-
----
-
-## 👨🏻‍💻 Languages and Tools
-
-<p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronLuo00&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="left">
-  <!-- Python & Related -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-
-  <!-- Frameworks / Data / ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/>
-
-  <!-- Platforms / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
-</p>
-
-## 🤝 Connect with me
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/xiaolong-luo-4a8281236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://scholar.google.com/citations?user=ppKzYv0AAAAJ&hl=zh-CN">
+    <img src="https://img.shields.io/badge/Google%20Scholar-h--index%206-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
-  <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  <a href="mailto:jiangnj.bio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jiangnj.bio%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/AaronLuo00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Xiaohongshu -->
-  <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
-    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/aaron_luo_00/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://github.com/Jiangnj1024">
+    <img src="https://img.shields.io/badge/GitHub-Jiangnj1024-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
+## About me
 
-## ✨ Quote
-> *"Do, or do not. There is no 'try'."* — Yoda
+我是一名食品科学与营养方向的博士研究生，主要关注天然产物及食品来源功能分子的发现、机制解析与应用开发。我的研究将计算化学、生物信息学、机器学习与实验表征结合起来，面向功能分子筛选、分子作用机制和递送体系设计等问题开展研究。
+
+- **教育经历：** 山东大学博士研究生（预计 2026 年 9 月毕业）；中国农业科学院硕士；山东师范大学食品科学与工程学士
+- **研究关键词：** Computational Chemistry · Bioinformatics · AIDD · Molecular Docking · Molecular Dynamics · Functional Food Materials
+- **Google Scholar：** [个人主页](https://scholar.google.com/citations?user=ppKzYv0AAAAJ&hl=zh-CN) · **h-index：6**
+
+## Research focus
+
+### 计算化学与生物信息学
+
+- 使用 **Python、R、Linux、scikit-learn、PyTorch** 开展数据分析与机器学习建模
+- 转录组分析、网络药理学、QSAR 与 AIDD；探索 **Transformer** 和 **图神经网络（GNN）** 在功能分子研究中的应用
+- 分子对接（**AutoDock Vina** 等）、分子动力学模拟（**GROMACS**）
+- 使用 **Gaussian、ORCA、VMD、PyMOL** 等工具开展结构计算与分子可视化
+
+### 材料表征与生物学评价
+
+- 动态光散射、Zeta 电位、紫外–可见分光、FTIR、荧光分光、共聚焦激光扫描显微镜、TEM、SEM 与流变表征
+- 细胞培养、细胞毒性评价、细胞内 ROS 清除活性测试，以及 Caco-2 细胞模型相关评价
+
+## Research work
+
+1. **芝麻叶总黄酮提取与鉴定**：采用响应面法优化乙醇超声辅助提取，结合大孔树脂纯化，完成黄酮类物质的提取、纯化与含量测定。
+2. **蛋白纳米粒子、皮克林乳液与油凝胶**：制备亚麻籽蛋白–油料多酚纳米粒子，构建皮克林乳液并以乳液模板法制备油凝胶，结合多尺度表征分析体系结构与性质。
+3. **机器学习与分子对接筛选菜籽粕多酚**：基于天然多酚及酶抑制活性文献数据建立自动机器学习筛选模型，并通过分子对接验证其对 α-淀粉酶和 α-葡萄糖苷酶的潜在抑制作用。
+4. **亚麻籽低聚糖–绿原酸偶联物**：通过酯化反应合成偶联物，开展结构验证、稳定性、体外抗氧化、细胞 ROS 清除活性与 Caco-2 生物利用度评价。
+5. **油茶籽油化妆品乳液开发**：围绕油茶籽油的功能特性开展市场调研与乳液精华、护肤产品开发探索。
+
+## Featured project
+
+### [Project_Glycandocking · 寡糖分子对接](https://github.com/Jiangnj1024/Project_Glycandocking)
+
+面向寡糖–蛋白相互作用研究的分子对接项目，记录数据准备、受体/配体处理、对接计算与结果分析流程。
+
+## Selected publications
+
+> 论文按作者贡献列出；期刊与文章信息以公开发表记录为准。
+
+<details>
+<summary><b>展开代表性论文</b></summary>
+
+1. **通讯作者** · Liu, X. et al. (2026). Applications of artificial intelligence in toxicity prediction of food-derived functional peptides: Recent advances and future perspectives. *Trends in Food Science & Technology*.
+2. **第一作者** · Jiang, N. et al. (2025). Advances in valorization of *Camellia oleifera* Abel. seed cake: A review on bioactive components, health benefits, extraction methods, and potential food applications. *Food Research International*, 208, 116134.
+3. **第一作者** · Jiang, N. et al. (2025). Flaxseed oligosaccharide-derived conjugates for chlorogenic acid delivery with enhanced stability, antioxidant activity, and bioavailability. *Journal of Food Science*, 90(4), e70165.
+4. **共同第一作者（第二位）** · Li, M. et al. (2024). Perilla seed oil: A review of health effects, encapsulation strategies and applications in food. *Foods*, 13(22), 3615.
+5. **第二作者** · Xu, Z. et al. (2025). Flaxseed (*Linum usitatissimum* L.) polysaccharides and oligosaccharides: Structure, extraction, biological properties and industrial applications. *Trends in Food Science & Technology*, 161, 105035.
+6. **第三作者** · Xu, Z. et al. (2024). Black sesame seeds: Nutritional value, health benefits, and food industrial applications. *Trends in Food Science & Technology*, 153, 104740.
+7. **第四作者** · Xiang, X. et al. (2025). Flavor profile of 4-isothiocyanato-1-butene in microwave rapeseed oil and its anti-inflammatory properties *in vitro*. *Journal of Agricultural and Food Chemistry*, 73(17), 10520–10530.
+
+</details>
+
+## Technical skills
+
+| 方向 | 工具与方法 |
+| --- | --- |
+| 编程与建模 | `Linux` · `Python` · `R` · `scikit-learn` · `PyTorch` |
+| 数据分析与算法 | 转录组分析 · 网络药理学 · QSAR · AIDD · Transformer · GNN |
+| 分子模拟 | AutoDock Vina 等分子对接软件 · `GROMACS` · `Gaussian` · `ORCA` · `VMD` · `PyMOL` |
+| 材料与生物实验 | DLS · Zeta 电位 · UV–Vis · FTIR · 荧光分光 · CLSM · TEM · SEM · 流变 · 细胞培养 · Caco-2 |
+| 科研工具 | Microsoft Office · Zotero · EndNote · LaTeX · Markdown · ChemDraw · PowerPoint · Photoshop · Illustrator |
+
+## Education
+
+| 时间 | 学位与单位 |
+| --- | --- |
+| 2026.09（预计） | 博士研究生 · 山东大学 |
+| 2023.09–2026.06 | 硕士研究生 · 中国农业科学院 |
+| 2019.09–2023.07 | 食品科学与工程学士 · 山东师范大学 |
+
+## Contact
+
+- Email: [jiangnj.bio@gmail.com](mailto:jiangnj.bio@gmail.com)
+- Google Scholar: [ppKzYv0AAAAJ](https://scholar.google.com/citations?user=ppKzYv0AAAAJ&hl=zh-CN)
+- GitHub: [Jiangnj1024](https://github.com/Jiangnj1024)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <i>Curious about mechanisms, careful with evidence, and open to collaboration.</i>
 </p>
