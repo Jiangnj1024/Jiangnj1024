@@ -20,7 +20,7 @@
 
 我是一名食品科学与营养方向的博士研究生，主要关注天然产物及食品来源功能分子的发现、机制解析与应用开发。我的研究将计算化学、生物信息学、机器学习与实验表征结合起来，面向功能分子筛选、分子作用机制和递送体系设计等问题开展研究。
 
-- **教育经历：** 山东大学博士研究生（预计 2026 年 9 月毕业）；中国农业科学院硕士；山东师范大学食品科学与工程学士
+- **教育经历：** 山东大学博士研究生（预计 2030 年 9 月毕业）；中国农业科学院硕士；山东师范大学食品科学与工程学士
 - **研究关键词：** Computational Chemistry · Bioinformatics · AIDD · Molecular Docking · Molecular Dynamics · Functional Food Materials
 - **Google Scholar：** [个人主页](https://scholar.google.com/citations?user=ppKzYv0AAAAJ&hl=zh-CN) · **h-index：6**
 
